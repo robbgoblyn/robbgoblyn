@@ -1,8 +1,8 @@
-## Bem-vindo(a) ao perfil do Robbgoblyn 👺
+## Bem-vindo(a) ao perfil do Dev em Dobro 😁
 
  <div>
   <a href="https://github.com/robbgoblyn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robbgoblyn&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robbgoblyn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robbgoblyn&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
